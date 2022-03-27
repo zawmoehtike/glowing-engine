@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tmdbexample</string>
+
+    <string name="connection_problem">Connection Problem!</string>
+    <string name="success">Success!</string>
+    <string name="loading_dot_dot_dot">Loading...</string>
+    <string name="loading">Loading</string>
+</resources>

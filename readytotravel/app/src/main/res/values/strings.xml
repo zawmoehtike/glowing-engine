@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">readytotravel</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="login_with_email_address">Login with email address</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="sign_up_with_facebook_for_the_most_fulfilling_trip_planning_experience_with_us">Sign up with Facebook for the most\nfulfilling trip planning experience with us!</string>
+    <string name="welcome_to_ready_to_travel">Welcome to\nReady To Travel</string>
+    <string name="almost_there">Almost there!</string>
+    <string name="complete_the_form_below_to_create_your_ready_to_travel_account">Complete the form below to create\nyour Ready To Travel account.</string>
+    <string name="create_my_account_now">Create my account now</string>
+</resources>
